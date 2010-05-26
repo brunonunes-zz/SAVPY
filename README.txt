@@ -1,1 +1,1 @@
-Este Software foi criada para gerenciar uma agencia de veiculos feito no Pyton no ambiente Eclipse.
+Este Software foi criado para gerenciar uma agencia de veiculos feito na linguagem Python no ambiente Eclipse.
